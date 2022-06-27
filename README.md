@@ -53,7 +53,7 @@ Analysis of various features like price range, ratings and reviews to find out t
 
 # Installation
 
--Power BI
+- Power BI
 
 # Contributor
 
