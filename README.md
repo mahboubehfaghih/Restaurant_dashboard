@@ -50,3 +50,12 @@ There are missing information about the restaurants in the dataset, as NAN.
 ## Visualization:
 
 Analysis of various features like price range, ratings and reviews to find out the best restaurants in different cities in Europe, which offer good food for its customers.
+
+# Installation
+
+-Power BI
+
+# Contributor
+
+- #### [Mahboubeh Faghih Mohammadi](https://github.com/mahboubehfaghih)
+    - https://www.linkedin.com/in/mahboubeh-faghih-mohammadi/
