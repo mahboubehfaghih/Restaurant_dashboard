@@ -87,7 +87,7 @@ What surprised me the most about this analysis is the focus customers put on cui
 
 The words used to describe the experiences (as well as the ratings) are in general positive and, I think because of the kind of data we avail of, the reviews are mostly about the kind of experience (service, location, price) and not about food itself.
 
-I think with this analysis, there are many answers to the question "Where should you eat in Europe?". There are many restaraunts in these european cities and a variety of cuisines and price ranges to choose from. So you have a lot of options depending on where you are and what you feel like eating. More visuals can be done with this dataset but I think for now I've covered the ones that seem the most inetersting and useful.
+I think with this analysis, there are many answers to the question "Where should you eat in Europe?". There are many restaurants in these European cities and a variety of cuisines and price ranges to choose from. So, you have a lot of options depending on where you are and what you feel like eating. More visuals can be done with this dataset but I think for now I've covered the ones that seem the most inetersting and useful.
 
 # Installation
 
