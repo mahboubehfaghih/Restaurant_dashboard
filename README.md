@@ -53,6 +53,8 @@ Analysis of various features like price range, ratings and reviews to find out t
 
 ## Analysis:
 
+We have over 125K restaurants in 31 European cities... plenty of places to try!
+
 There are many Cuisines in the dataset.
 - European: European, Dutch, French, Central European, Italian, Irish, German, Belgian, British, Spanish, Swiss, Scandinavian
 
