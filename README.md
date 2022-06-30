@@ -21,7 +21,7 @@ Dataset: [TripAdvisor Restaurants Info for 31 Euro-Cities](https://www.kaggle.co
 
 ## Dataset and Attribute information:
 
-This dataset contains information scrapped from the TripAdvisor (TA) website about restaurants in 31 European cities. The cities listed are from different European countries: Amsterdam (NL), Athens (GR), Barcelona (ES), Berlin (DE), Bratislava (SK), Bruxelles (BE), Budapest (HU), Copenhagen (DK), Dublin (IE), Edinburgh (UK), Geneva (CH), Helsinki (FI), Hamburg (DE), Krakow (PL), Lisbon (PT), Ljubljana (SI), London (UK), Luxembourg (LU), Madrid (ES), Lyon (FR), Milan (IT), Munich (DE), Oporto (PT), Oslo (NO), Paris (FR), Prague (CZ), Rome (IT), Stockholm (SE), Vienna (AT), Warsaw (PL), and Zurich (CH).
+This dataset contains information scrapped from the TripAdvisor website about restaurants in 31 European cities. The cities listed are from different European countries: Amsterdam (NL), Athens (GR), Barcelona (ES), Berlin (DE), Bratislava (SK), Bruxelles (BE), Budapest (HU), Copenhagen (DK), Dublin (IE), Edinburgh (UK), Geneva (CH), Helsinki (FI), Hamburg (DE), Krakow (PL), Lisbon (PT), Ljubljana (SI), London (UK), Luxembourg (LU), Madrid (ES), Lyon (FR), Milan (IT), Munich (DE), Oporto (PT), Oslo (NO), Paris (FR), Prague (CZ), Rome (IT), Stockholm (SE), Vienna (AT), Warsaw (PL), and Zurich (CH).
 
 There are 125527 restaurants listed in the dataset. The attributes with respect to each restaurant are:
 
