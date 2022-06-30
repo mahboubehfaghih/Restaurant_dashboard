@@ -55,6 +55,8 @@ Analysis of various features like price range, ratings and reviews to find out t
 
 We have over 125K restaurants in 31 European cities... plenty of places to try!
 
+The most restaurants are located in London followed by Paris. 
+
 There are many Cuisines in the dataset.
 - European: European, Dutch, French, Central European, Italian, Irish, German, Belgian, British, Spanish, Swiss, Scandinavian
 
