@@ -70,9 +70,22 @@ There are 127 Cuisines in the dataset.
 
 - Bars: Bar, Pub, Wine Bar
 
-- Specific: Diner, Cafe, Fast Food, Pizza, Seafood, Sushi, Soups, Delicatessen, Contemporary, Halal, Grill, Barbecue, Steakhouse
+- Specific: Diner, Cafe, Fast Food, Pizza, Seafood, Sushi, Soups, Delicatessen, Contemporary, Halal, Grill, Barbecue, Steakhouse.
+
+Vegetarian Friendly is the top cuisine style by number of reviews and ratings in all the cities.
+
+The WordCloud was an overall view of the reviews scraped from TripAdvisor.com.
+
+histogram show words in common, which in general can be related to the matter people are talking about (like food , service , good).
+
+In accordance with the histogram, the WordCloud is dominated by positive words.
+
 
 ## Conclusion
+
+What surprised me the most about this analysis is the focus customers put on cuisine styles like the Vegan, Vegetarian or Gluten Free. Seeing them so talked about around Europe gave me a different perception of them.
+
+The words used to describe the experiences (as well as the ratings) are in general positive and, I think because of the kind of data we avail of, the reviews are mostly about the kind of experience (service, location, price) and not about food itself.
 
 I think with this analysis, there are many answers to the question "Where should you eat in Europe?". There are many restaraunts in these european cities and a variety of cuisines and price ranges to choose from. So you have a lot of options depending on where you are and what you feel like eating. More visuals can be done with this dataset but I think for now I've covered the ones that seem the most inetersting and useful.
 
