@@ -51,6 +51,10 @@ There are missing information about the restaurants in the dataset, as NAN.
 
 Analysis of various features like price range, ratings and reviews to find out the best restaurants in different cities in Europe, which offer good food for its customers.
 
+##Conclusion
+
+I think with the analysis above, there are many answers to the question "Where should you eat in Europe?". There are many restaraunts in these european cities and a variety of cuisines and price ranges to choose from. So you have a lot of options depending on where you are and what you feel like eating. More visuals can be done with this dataset but I think for now I've covered the ones that seem the most inetersting and useful.
+
 # Installation
 
 - Power BI
